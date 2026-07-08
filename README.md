@@ -1,8 +1,6 @@
 # 🤖 Simple Quadruped Robot - Preliminary Mechanical Design
 
 > **Designed by:** Meshal Talal AL Mehmady  
-> **Track:** Electrical Circuits & Internet of Things (IoT)
-
 ---
 
 ## 📌 Task Purpose
